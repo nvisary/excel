@@ -8,7 +8,12 @@
   "rules": {
     "object-curly-spacing": "off",
     "quotes": "off",
-    "require-jsdoc": "off"
+    "require-jsdoc": "off",
+    "no-unused-vars": "warn",
+    "no-trailing-spaces": "off",
+    "operator-linebreak": "off",
+    "comma-dangle": "off",
+    "indent": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
